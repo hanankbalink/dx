@@ -32,14 +32,14 @@
     [
         "C:\\Users\\G3\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\G3\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1505028190722,
             "changeTime": 1505028190722,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -892,14 +892,14 @@
     [
         "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
             "isDirectory": false,
-            "size": 91,
-            "modifiedTime": 1505028001561,
-            "changeTime": 1505028001561,
-            "contentHash": "14baa28d7d740e80c11f4d90a3c1393c1c758ca5",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 98,
+            "modifiedTime": 1505029083443,
+            "changeTime": 1505029083443,
+            "contentHash": "376112b5273a6cc6d9158819f98884848411ad31"
         }
     ],
     [
@@ -944,92 +944,92 @@
     [
         "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1505028190721,
             "changeTime": 1505028190721,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6001,
             "modifiedTime": 1505028190723,
             "changeTime": 1505028190723,
-            "contentHash": "a3e0259648daa926b32408e4c45905577e5c1b56"
+            "contentHash": "a3e0259648daa926b32408e4c45905577e5c1b56",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5665,
             "modifiedTime": 1505028190725,
             "changeTime": 1505028190725,
-            "contentHash": "28aa78f5da9c28a170da9bd200341268ca40700c"
+            "contentHash": "28aa78f5da9c28a170da9bd200341268ca40700c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5661,
             "modifiedTime": 1505028190727,
             "changeTime": 1505028190727,
-            "contentHash": "fad07bdcd9f7fdcc4a0fca93d7b75dca7b32f689"
+            "contentHash": "fad07bdcd9f7fdcc4a0fca93d7b75dca7b32f689",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18236,
             "modifiedTime": 1505028190732,
             "changeTime": 1505028190732,
-            "contentHash": "e82a25a83e56ceba2878f9144741cbbb27eb4144"
+            "contentHash": "e82a25a83e56ceba2878f9144741cbbb27eb4144",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1505028190720,
             "changeTime": 1505028190720,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\G3\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1505028190728,
             "changeTime": 1505028190728,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
